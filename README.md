@@ -1,4 +1,3 @@
-# simple-map
+# Mapa - Atividade em Meteor.Js para a disciplina de Desenvolvimento de Aplicações Móveis da UNICAP
 
-You will see in your device a simple image showing your current place.
-You have to replace inside the main.html your API key with Maps Static API enabled.
+Um exemplo simples de uso do pacote mdg:geolocation para obter a geolocalização atual e mostrá-la nos mapas.
